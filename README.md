@@ -6,7 +6,7 @@ This project is an ongoing effort to build a simple, interactive **Coffee Menu C
 * **Managing State (`useState`)** for interactive elements (like order quantities).
 * Basic **CSS Styling** and **Flexbox** layout.
 
-## 🏗️ Current Status
+## Current Status
 This repository currently contains the **initial structure and state logic** for the menu card component.
 
 * The main app layout and basic styling are defined.
